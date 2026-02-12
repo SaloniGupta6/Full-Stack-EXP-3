@@ -50,7 +50,7 @@ npm install
 npm run dev
 
 ## 🌐 Live Demo
-👉 Deployed on Vercel: (Add your live link here)
+👉 Deployed on Vercel: https://saloni-23bai70642-full-stack-exp-3.vercel.app
 👩‍💻 Author
 Saloni Gupta
 Full Stack Development Lab Project
