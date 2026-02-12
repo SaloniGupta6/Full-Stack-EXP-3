@@ -10,7 +10,7 @@ function Landing() {
         <Col md={8} lg={6}>
           <Card className="p-4 shadow-lg text-center rounded-4">
             <Card.Body>
-              <h1 className="fw-bold mb-3">Experiment 2 – UI Design Dashboard</h1>
+              <h1 className="fw-bold mb-3">Experiment 3 – UI Design Dashboard</h1>
               <p className="text-muted mb-4">
                 A responsive and interactive dashboard built using React and Bootstrap UI components.
               </p>
