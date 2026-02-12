@@ -1,16 +1,56 @@
-# React + Vite
+# Full Stack Experiment 3 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is an enhanced continuation of Experiment 2, developed as part of a Full Stack Development lab. It focuses on building a modern, responsive, and secure web application using React, Material UI, Bootstrap, and Vite, with protected routes, animations, dark mode, and user profile management.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## React Compiler
+- Responsive landing page with premium UI
+- Dark/Light mode toggle
+- Authentication-based protected routes
+- Dashboard with cards, charts, and animations
+- User profile with real image upload
+- Settings page with theme and preference controls
+- Routing using React Router
+- Smooth page transitions using Framer Motion
+- Deployed on Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Frontend: React, Vite
+- UI Libraries: Material UI, Bootstrap
+- Animations: Framer Motion
+- Routing: React Router DOM
+- Deployment: Vercel
+
+---
+
+## 📂 Project Structure
+
+src/
+├── assets/
+├── components/
+├── pages/
+├── theme.js
+├── App.jsx
+├── main.jsx
+
+
+---
+
+## ▶️ How to Run Locally
+
+```bash
+git clone https://github.com/SaloniGupta6/Full-Stack-EXP-3.git
+cd Full-Stack-EXP-3
+npm install
+npm run dev
+
+## 🌐 Live Demo
+👉 Deployed on Vercel: (Add your live link here)
+👩‍💻 Author
+Saloni Gupta
+Full Stack Development Lab Project
